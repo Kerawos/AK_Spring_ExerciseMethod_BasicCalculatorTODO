@@ -1,4 +1,4 @@
-package pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculator.controller;
+package pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculatorTODO.controller;
 
 /**
  * Import section

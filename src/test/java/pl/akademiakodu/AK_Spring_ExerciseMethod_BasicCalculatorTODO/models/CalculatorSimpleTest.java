@@ -1,4 +1,4 @@
-package pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculator.models;
+package pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculatorTODO.models;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

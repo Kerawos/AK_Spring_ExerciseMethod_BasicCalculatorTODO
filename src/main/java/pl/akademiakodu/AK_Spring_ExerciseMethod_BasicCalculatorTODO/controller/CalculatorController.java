@@ -1,4 +1,4 @@
-package pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculator.controller;
+package pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculatorTODO.controller;
 
 /**
  * Import section
@@ -8,9 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculator.models.CalculatorAverage;
-import pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculator.models.CalculatorSimple;
-import pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculator.models.OperationModel;
+import pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculatorTODO.models.CalculatorAverage;
+import pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculatorTODO.models.CalculatorSimple;
+import pl.akademiakodu.AK_Spring_ExerciseMethod_BasicCalculatorTODO.models.OperationModel;
 
 /**
  * Control main page containing descriptions and calculator exercise
